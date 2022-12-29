@@ -1,0 +1,16 @@
+{
+    "name": "spotifywebsite",
+    "version": "1.0.0",
+    "description": "Spotify Playlist Quiz Generator",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Ethan",
+    "license": "ISC",
+    "type": "module",
+    "dependencies": {
+        "chalk": "^5.2.0",
+        "request": "^2.88.2"
+    }
+}
